@@ -1,0 +1,19 @@
+{
+  "name": "flatron",
+  "version": "0.0.1",
+  "description": "JavaScript version of the classic game from Tron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew-hub/flatron.git"
+  },
+  "author": "https://github.com/matthew-hub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthew-hub/flatron/issues"
+  },
+  "homepage": "https://github.com/matthew-hub/flatron#readme"
+}
